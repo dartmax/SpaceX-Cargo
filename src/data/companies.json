@@ -1,0 +1,26 @@
+[
+  {
+    "id": "e40b72",
+    "name": "Amazon",
+    "email": "contact@Amazon.com",
+    "boxes": "6.8,7.9,3.6,8.8,4.8,9.4"
+  },
+  {
+    "id": "84674be8",
+    "name": "American Express",
+    "email": "contact@american-express.com",
+    "boxes": "6.8,7.9,3.6"
+  },
+  {
+    "id": "34554e30e6ac1a4",
+    "name": "Airbnb",
+    "email": "contact@airbnb.com",
+    "boxes": "6.8,7.9,3.6,8.8,4.8,9.4,4.8,9.4"
+  },
+  {
+    "id": "7ac25980a066",
+    "name": "Apple",
+    "email": "contact@apple.com",
+    "boxes": "2.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1"
+  }
+]
