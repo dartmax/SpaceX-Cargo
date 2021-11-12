@@ -1,6 +1,7 @@
 # SpaceX Cargo Planner
 
 Calculating the needed number of cargo bays
+[Live Demo](https://competent-bhaskara-2864c8.netlify.app)
 
 ```
 {
